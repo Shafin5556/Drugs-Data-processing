@@ -4,8 +4,8 @@
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-    <h2 align="center" class="big-text">Breast Cancer Detection Using Machine Learnings</h2>
-    <h5 align="center" class="big-text">RThe feature sets are:
+    <h2 align="center" class="big-text">Drug Classification</h2>
+    <h5 align="center" class="big-text">The feature sets are:
 Age
 Sex
 Blood Pressure Levels (BP)
